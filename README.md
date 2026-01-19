@@ -32,5 +32,7 @@
 - LinkedIn: www.linkedin.com/in/nasreen-khan1678
 
 ## 📊 GitHub Stats
-![Nasreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasreenkhannam&show_icons=true&theme=default)
 
+![Nasreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasreenkhannam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasreenkhannam&layout=compact)
