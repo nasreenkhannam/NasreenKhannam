@@ -29,4 +29,6 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/nasreenkhannam
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/nasreen-khan1678
+
+
