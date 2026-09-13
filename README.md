@@ -2,7 +2,7 @@
 
 # Hi, I'm Shanu Nasreen Khannam 👋
 
-### Aspiring Software Developer | Java • Python • SQL • Web Development
+### Aspiring Software Developer | Java • Python • SQL • Web Development • Machine Learning
 
 I enjoy building practical projects, learning new technologies, and solving problems through clean and maintainable code.
 
@@ -18,7 +18,7 @@ I enjoy building practical projects, learning new technologies, and solving prob
 ## About Me
 
 - 🎓 Building my foundation in software development and problem solving
-- 💻 Interested in **Java, Python, SQL, web development, and data-focused projects**
+- 💻 Interested in **Java, Python, SQL, web development, data analysis, and machine learning**
 - 🚀 I like turning ideas into simple, useful applications
 - 🌱 Continuously improving my coding, Git, and development skills
 - 🎯 Currently seeking opportunities to learn, contribute, and grow as a developer
@@ -39,10 +39,15 @@ I enjoy building practical projects, learning new technologies, and solving prob
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Databases & Tools**
+**Data, Machine Learning & Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -53,6 +58,9 @@ A web project focused on bringing event information together in one place.
 
 ### 🔹 Smart Job Preparation Tracker
 A practical project designed to organize and track job-preparation activities.
+
+### 🔹 Machine Learning — Breast Cancer Classification
+A machine learning project that classifies breast tumors as **malignant or benign** using the Breast Cancer Wisconsin Diagnostic dataset. It demonstrates data cleaning, exploratory analysis, feature selection, scaling, model comparison, evaluation, and model persistence using **Python and scikit-learn**. fileciteturn4file0
 
 ### 🔹 Web Crawler for Parameterized Endpoint Detection
 A project exploring web crawling and endpoint detection concepts.
