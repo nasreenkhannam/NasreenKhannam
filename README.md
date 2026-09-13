@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shanu Nasreen 👋
+# Hi, I'm Shanu Nasreen Khannam 👋
 
 ### Aspiring Software Developer | Java • Python • SQL • Web Development
 
